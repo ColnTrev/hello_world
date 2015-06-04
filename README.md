@@ -1,2 +1,2 @@
 # hello_world
-Yay First repository
+This is my first test of how to use github. Hooray for me!
